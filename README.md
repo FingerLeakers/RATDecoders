@@ -84,3 +84,11 @@ Malware.lu for the initial xtreme Rat Writeup - https://code.google.com/p/malwar
 Fireye for their Poison Ivy and Xtreme rat WriteUps (Even though they ignored my tweet and reply ) - http://www.fireeye.com/blog/technical/2014/02/xtremerat-nuisance-or-threat.html
 
 Shawn Denbow and Jesse Herts for their paper here - http://www.matasano.com/research/PEST-CONTROL.pdf Saved me a lot of time 
+
+
+</BR>
+
+<a href="https://golden-farm.biz/?r=1673249" target="_blank">
+<img src="https://golden-farm.biz/images/promo/en/728x90.gif"
+alt="Profit every 10 minutes!"></a>
+
